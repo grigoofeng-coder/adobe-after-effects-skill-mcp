@@ -13,3 +13,5 @@
 7. Нажми Window > mcp-bridge-auto.jsx.
 
 8. Включи bridge/auto-run.
+
+Автор - https://t.me/pyro17web3
