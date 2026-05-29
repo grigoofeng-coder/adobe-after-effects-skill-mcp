@@ -1,0 +1,4 @@
+interface:
+  display_name: "Adobe After Effects MCP"
+  short_description: "Guide AE projects through MCP"
+  default_prompt: "Use $adobe-after-effects-mcp to create and automate an After Effects composition through MCP."
